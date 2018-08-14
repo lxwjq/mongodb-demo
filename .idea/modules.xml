@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mongo-source/mongo-source.iml" filepath="$PROJECT_DIR$/mongo-source/mongo-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb-demo.iml" filepath="$PROJECT_DIR$/mongodb-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb-simple/mongodb-simple.iml" filepath="$PROJECT_DIR$/mongodb-simple/mongodb-simple.iml" />
+    </modules>
+  </component>
+</project>
