@@ -7,12 +7,7 @@ import lombok.ToString;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-/**
- * 
- * @author liangming.deng
- * @date   2017年10月14日
- *
- */
+
 @Data
 @ToString
 @AllArgsConstructor

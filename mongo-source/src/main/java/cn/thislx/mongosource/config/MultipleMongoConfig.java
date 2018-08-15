@@ -19,9 +19,6 @@ import java.util.List;
 
 /**
  * 获取各数据源MongoTemplate
- * 
- * @author liangming.deng
- * @date 2017年10月14日
  *
  */
 @Configuration
